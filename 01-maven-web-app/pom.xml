@@ -15,6 +15,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>5.2.21.RELEASE</version>
+</dependency>
   <build>
     <finalName>01-maven-web-app</finalName>
   </build>
